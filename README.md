@@ -7,7 +7,7 @@ The dataset used for this project is 'STOCKS.csv'. The provided data consists of
 **Project Task**
    1. Data Loading and Exploration
    2. Creating Bar Chart or Histogram for our DataSet.
-   3.Applying Linear and Decision Tree Regression
+   3. Applying Linear and Decision Tree Regression
 
 **Tools Used**
    1. Python: Programming language used for data analysis and model implementation.
